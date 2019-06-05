@@ -1,0 +1,8 @@
+C:\Users\oscar\Documents\Visual Studio 2008\Projects\SmartDeviceTcpSocketClient\SmartDeviceTcpSocketClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\oscar\Documents\Visual Studio 2008\Projects\SmartDeviceTcpSocketClient\SmartDeviceTcpSocketClient\obj\Debug\SmartDeviceTcpSocketClient.Form1.resources
+C:\Users\oscar\Documents\Visual Studio 2008\Projects\SmartDeviceTcpSocketClient\SmartDeviceTcpSocketClient\obj\Debug\SmartDeviceTcpSocketClient.Properties.Resources.resources
+C:\Users\oscar\Documents\Visual Studio 2008\Projects\SmartDeviceTcpSocketClient\SmartDeviceTcpSocketClient\obj\Debug\SmartDeviceTcpSocketClient.csproj.GenerateResource.Cache
+C:\Users\oscar\Documents\Visual Studio 2008\Projects\SmartDeviceTcpSocketClient\SmartDeviceTcpSocketClient\bin\Debug\SmartDeviceTcpSocketClient.exe
+C:\Users\oscar\Documents\Visual Studio 2008\Projects\SmartDeviceTcpSocketClient\SmartDeviceTcpSocketClient\bin\Debug\SmartDeviceTcpSocketClient.pdb
+C:\Users\oscar\Documents\Visual Studio 2008\Projects\SmartDeviceTcpSocketClient\SmartDeviceTcpSocketClient\obj\Debug\SmartDeviceTcpSocketClient.exe
+C:\Users\oscar\Documents\Visual Studio 2008\Projects\SmartDeviceTcpSocketClient\SmartDeviceTcpSocketClient\obj\Debug\SmartDeviceTcpSocketClient.pdb
